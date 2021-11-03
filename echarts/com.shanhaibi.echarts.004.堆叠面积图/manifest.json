@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.004.堆叠面积图",
+    "name": "echarts堆叠面积图",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}
