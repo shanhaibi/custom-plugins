@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.031.上证指数",
+    "name": "上证指数",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.008.轴刻度与标签对齐柱状图",
+    "name": "轴刻度与标签对齐柱状图",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.019.安斯库姆四重奏",
+    "name": "安斯库姆四重奏",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

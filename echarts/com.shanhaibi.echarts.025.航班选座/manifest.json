@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.025.航班选座",
+    "name": "航班选座",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

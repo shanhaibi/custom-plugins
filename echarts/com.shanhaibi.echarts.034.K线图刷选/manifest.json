@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.034.K线图刷选",
+    "name": "K线图刷选",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

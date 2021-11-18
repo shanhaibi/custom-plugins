@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.028.散点图 (SVG)",
+    "name": "散点图 (SVG)",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

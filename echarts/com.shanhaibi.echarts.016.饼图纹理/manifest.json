@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.016.饼图纹理",
+    "name": "饼图纹理",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

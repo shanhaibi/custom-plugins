@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.014.环形图",
+    "name": "环形图",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

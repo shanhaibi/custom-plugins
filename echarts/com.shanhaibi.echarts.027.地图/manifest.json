@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.027.地图",
+    "name": "地图",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

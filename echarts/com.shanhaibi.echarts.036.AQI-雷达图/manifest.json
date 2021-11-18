@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.036.AQI-雷达图",
+    "name": "AQI-雷达图",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

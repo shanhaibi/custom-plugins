@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.040.垂直方向盒须图",
+    "name": "垂直方向盒须图",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}
