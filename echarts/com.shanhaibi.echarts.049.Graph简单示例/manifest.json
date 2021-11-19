@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.049.Graph简单示例",
+    "name": "Graph简单示例",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

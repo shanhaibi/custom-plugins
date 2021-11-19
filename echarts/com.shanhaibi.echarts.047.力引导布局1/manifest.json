@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.047.力引导布局1",
+    "name": "力引导布局1",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}
