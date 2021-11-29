@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.059.径向树状图",
+    "name": "径向树状图",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

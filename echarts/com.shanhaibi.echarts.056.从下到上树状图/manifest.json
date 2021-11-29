@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.056.从下到上树状图",
+    "name": "从下到上树状图",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

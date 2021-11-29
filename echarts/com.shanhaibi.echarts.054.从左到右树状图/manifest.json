@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.054.从左到右树状图",
+    "name": "从左到右树状图",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

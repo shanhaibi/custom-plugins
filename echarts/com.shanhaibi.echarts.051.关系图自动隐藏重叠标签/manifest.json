@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.051.关系图自动隐藏重叠标签",
+    "name": "关系图自动隐藏重叠标签",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

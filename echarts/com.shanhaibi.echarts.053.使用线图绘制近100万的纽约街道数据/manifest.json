@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.053.使用线图绘制近100万的纽约街道数据",
+    "name": "使用线图绘制近100万的纽约街道数据",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

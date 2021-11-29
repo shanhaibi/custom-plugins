@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.055.多棵树",
+    "name": "多棵树",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}
