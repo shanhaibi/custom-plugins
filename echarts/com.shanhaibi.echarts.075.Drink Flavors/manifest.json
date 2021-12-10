@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.075.Drink Flavors",
+    "name": "Drink Flavors",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

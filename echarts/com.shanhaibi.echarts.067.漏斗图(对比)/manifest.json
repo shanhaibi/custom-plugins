@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.067.漏斗图(对比)",
+    "name": "漏斗图(对比)",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}
