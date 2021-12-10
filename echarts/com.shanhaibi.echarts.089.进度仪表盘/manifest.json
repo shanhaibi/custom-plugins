@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.089.进度仪表盘",
+    "name": "进度仪表盘",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.079.散点矩阵和平行坐标",
+    "name": "散点矩阵和平行坐标",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

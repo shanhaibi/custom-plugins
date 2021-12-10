@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.082.桑基图节点自定义样式",
+    "name": "桑基图节点自定义样式",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.080.基础桑基图",
+    "name": "基础桑基图",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

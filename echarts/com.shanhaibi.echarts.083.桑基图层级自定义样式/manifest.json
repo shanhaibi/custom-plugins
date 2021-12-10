@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.083.桑基图层级自定义样式",
+    "name": "桑基图层级自定义样式",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

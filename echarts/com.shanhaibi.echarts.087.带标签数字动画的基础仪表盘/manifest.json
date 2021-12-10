@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.087.带标签数字动画的基础仪表盘",
+    "name": "带标签数字动画的基础仪表盘",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.085.桑基图左对齐布局",
+    "name": "桑基图左对齐布局",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}
