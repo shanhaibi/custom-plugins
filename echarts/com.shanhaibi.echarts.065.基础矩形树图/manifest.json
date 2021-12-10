@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.065.基础矩形树图",
+    "name": "基础矩形树图",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

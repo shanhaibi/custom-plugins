@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.064.显示父层级标签",
+    "name": "显示父层级标签",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

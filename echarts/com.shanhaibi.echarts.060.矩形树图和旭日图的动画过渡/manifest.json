@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.060.矩形树图和旭日图的动画过渡",
+    "name": "矩形树图和旭日图的动画过渡",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}
