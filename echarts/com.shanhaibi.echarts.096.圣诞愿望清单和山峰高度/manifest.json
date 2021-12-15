@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.096.圣诞愿望清单和山峰高度",
+    "name": "圣诞愿望清单和山峰高度",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

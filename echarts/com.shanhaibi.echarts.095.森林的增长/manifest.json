@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.095.森林的增长",
+    "name": "森林的增长",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

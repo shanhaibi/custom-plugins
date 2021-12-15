@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.105.利润分布直方图",
+    "name": "利润分布直方图",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}
