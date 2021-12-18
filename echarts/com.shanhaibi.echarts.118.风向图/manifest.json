@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.118.风向图",
+    "name": "风向图",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.124.3D地球",
+    "name": "3D地球",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.112.分割数据到数个饼图",
+    "name": "分割数据到数个饼图",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

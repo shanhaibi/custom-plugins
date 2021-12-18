@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.111.指定数据到坐标轴的映射",
+    "name": "指定数据到坐标轴的映射",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

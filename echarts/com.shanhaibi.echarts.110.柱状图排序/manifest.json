@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.110.柱状图排序",
+    "name": "柱状图排序",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

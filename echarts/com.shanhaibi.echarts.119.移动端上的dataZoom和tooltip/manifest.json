@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.119.移动端上的dataZoom和tooltip",
+    "name": "移动端上的dataZoom和tooltip",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

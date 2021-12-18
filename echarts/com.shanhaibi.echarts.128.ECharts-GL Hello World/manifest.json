@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.128.ECharts-GL Hello World",
+    "name": "ECharts-GL Hello World",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}
