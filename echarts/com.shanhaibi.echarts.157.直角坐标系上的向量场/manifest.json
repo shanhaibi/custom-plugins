@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.157.直角坐标系上的向量场",
+    "name": "直角坐标系上的向量场",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.133.Noise modified from marpi's demo",
+    "name": "Noise modified from marpi's demo",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

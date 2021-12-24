@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.154.三维折线图正交投影",
+    "name": "三维折线图正交投影",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

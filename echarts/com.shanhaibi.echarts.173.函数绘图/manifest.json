@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.173.函数绘图",
+    "name": "函数绘图",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.152.Flights GL",
+    "name": "Flights GL",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

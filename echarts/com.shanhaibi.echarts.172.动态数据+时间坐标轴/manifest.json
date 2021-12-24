@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.172.动态数据+时间坐标轴",
+    "name": "动态数据+时间坐标轴",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

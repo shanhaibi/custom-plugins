@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.138.Scatter3D - Globe Population",
+    "name": "Scatter3D - Globe Population",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

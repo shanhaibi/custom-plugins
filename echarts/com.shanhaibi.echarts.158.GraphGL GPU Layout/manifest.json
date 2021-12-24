@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.158.GraphGL GPU Layout",
+    "name": "GraphGL GPU Layout",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.141.Scatter3D - Simplex Noise",
+    "name": "Scatter3D - Simplex Noise",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

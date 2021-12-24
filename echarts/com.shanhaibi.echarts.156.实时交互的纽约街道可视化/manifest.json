@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.156.实时交互的纽约街道可视化",
+    "name": "实时交互的纽约街道可视化",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}
