@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.193.堆叠条形图",
+    "name": "堆叠条形图",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.194.柱状图框选",
+    "name": "柱状图框选",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

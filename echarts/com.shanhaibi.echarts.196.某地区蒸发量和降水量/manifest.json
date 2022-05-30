@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.196.某地区蒸发量和降水量",
+    "name": "某地区蒸发量和降水量",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.189.特性示例：渐变色阴影点击缩放",
+    "name": "特性示例：渐变色阴影点击缩放",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

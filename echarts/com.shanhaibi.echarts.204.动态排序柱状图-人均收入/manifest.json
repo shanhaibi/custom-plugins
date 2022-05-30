@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.204.动态排序柱状图-人均收入",
+    "name": "动态排序柱状图-人均收入",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

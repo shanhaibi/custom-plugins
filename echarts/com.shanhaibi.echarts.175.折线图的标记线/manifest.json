@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.175.折线图的标记线",
+    "name": "折线图的标记线",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

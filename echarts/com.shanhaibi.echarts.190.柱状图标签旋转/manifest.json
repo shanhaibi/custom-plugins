@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.190.柱状图标签旋转",
+    "name": "柱状图标签旋转",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

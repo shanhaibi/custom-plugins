@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.186.极坐标柱状图标签1",
+    "name": "极坐标柱状图标签1",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

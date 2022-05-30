@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.195.正负条形图",
+    "name": "正负条形图",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}

@@ -1,0 +1,7 @@
+{
+    "id": "com.shanhaibi.echarts.177.双数值轴折线图",
+    "name": "双数值轴折线图",
+    "version": "0.0.1",
+    "type": "plugin",
+    "main": "index.html"
+}
